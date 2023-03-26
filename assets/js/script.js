@@ -1,5 +1,5 @@
 'use strict';
-
+//copyright Codepastac
 
 
 // element toggle function
